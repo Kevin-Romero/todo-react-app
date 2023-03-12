@@ -7,6 +7,8 @@
 Este es un proyecto para generar tareas donde puedes agregar y eliminar tareas ademas de poder marcar alguna tarea como completada al hacer click sobre ella.
 Es una aplicación sencilla realizada con react.js.
 
+![TODO React App](https://kevinromero.dev/assets/img/proyectos/todo-react-app.png "TODO React App")
+
 ## Tecnologías Utilizadas
 
 - HTML
