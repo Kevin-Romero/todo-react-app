@@ -16,9 +16,10 @@ function TaskForm(props) {
     };
 
     props.onSubmit(newTask);
+    document.getElementById("form").reset();
   };
   return (
-    <form onSubmit={send}>
+    <form id="form" onSubmit={send}>
       <input
         type="text"
         name="taskInput"

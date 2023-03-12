@@ -7,8 +7,6 @@ function TaskContainer() {
     JSON.parse(localStorage.getItem("taskListUpdate")) || []
   );
 
-  // setTask(JSON.parse(localStorage.getItem("taskListUpdate")));
-
   const addTask = (task) => {
     if (task.text.trim()) {
       task.text = task.text.trim();
