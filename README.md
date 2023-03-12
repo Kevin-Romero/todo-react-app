@@ -27,7 +27,11 @@ Dentro del directorio ejecutamos el siguiente comando:
 
 Esto ejecuta la aplicación en modo desarrollador.
 
-Abra el navegador de su preferencia y en la barra de direcciones pones http://localhost:3000 y se mostrara el proyecto funcionando.
+Abra el navegador de su preferencia y en la barra de direcciones coloque el siguiente enlace:
+
+http://localhost:3000
+
+Posteriormente se mostrara el proyecto funcionando.
 
 La pagina se volverá a cargar cuando realice cambios.
 
