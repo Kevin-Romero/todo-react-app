@@ -20,11 +20,13 @@ Es una aplicación sencilla realizada con react.js.
 ## Instalación
 
 Abrimos la terminal y nos dirigimos a la carpeta.
+
 Dentro del directorio ejecutamos el siguiente comando:
 
 ### `npm start`
 
 Esto ejecuta la aplicación en modo desarrollador.
+
 Abra el navegador de su preferencia y en la barra de direcciones pones http://localhost:3000 y se mostrara el proyecto funcionando.
 
 La pagina se volverá a cargar cuando realice cambios.
